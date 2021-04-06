@@ -1,3 +1,8 @@
+## Ecommerce-Shopping Car
+
+In this application i simple design shopping cart. Here i am using react js for buliding UI. I use fake api for getting products. When i create this app i am using npx to create react empty app. Then i started the developmnet of this application. To develop this i used react hook. That are available in react 16.8 or later version. All of UI store in component file. For State management i am using context api that are very popular now a days. All most all state handled using context api. Some of state handlig use useState that are component based state.
+
+
 ## Getting Started
 
 In the project directory, you can run:
